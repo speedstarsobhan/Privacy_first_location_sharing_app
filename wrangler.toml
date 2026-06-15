@@ -1,0 +1,7 @@
+name = "destination-relay-worker"
+main = "worker-index.js"
+compatibility_date = "2026-05-14"
+
+[vars]
+ALLOWED_ORIGIN = "https://your-project.pages.dev"
+IP_SALT = "change-this-random-string"
